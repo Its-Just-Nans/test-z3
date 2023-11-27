@@ -1,6 +1,6 @@
 # test-z3
 
-Just a some test on the z3 library with little benchmark and a weird way to solve sudoku.
+Just a some test on the z3 library with little benchmark and a weird way to verify sudoku.
 
 ## Usage
 
